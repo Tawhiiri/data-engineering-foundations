@@ -61,43 +61,30 @@ Each project documents its architectural choices and tooling rationale.
 ├── shared_utils/
 ├── docs/
 └── README.md
+```
+
 Every project includes:
+- A clearly defined problem statement
+- Architectural overview and design decisions
+- Setup and execution instructions
+- Key assumptions and trade-offs
+- Identified limitations and improvement areas
 
-A clearly defined problem statement
-
-Architectural overview and design decisions
-
-Setup and execution instructions
-
-Key assumptions and trade-offs
-
-Identified limitations and improvement areas
-
-Engineering principles
+## Engineering principles
 The work in this repository follows a consistent set of principles:
+- Prefer simple, explicit solutions over unnecessary complexity
+- Make trade-offs visible and well-documented
+- Optimize for maintainability and readability
+- Apply scalable patterns even when working with small datasets
+- Automate processes when the cost-benefit is clear
 
-Prefer simple, explicit solutions over unnecessary complexity
-
-Make trade-offs visible and well-documented
-
-Optimize for maintainability and readability
-
-Apply scalable patterns even when working with small datasets
-
-Automate processes when the cost-benefit is clear
-
-Purpose
+## Purpose
 This portfolio exists to demonstrate:
+- How I reason about data problems
+- How I translate requirements into working systems
+- How I balance engineering rigor with practical constraints
+- It is a living repository that evolves as I learn, experiment, and refine my approach.
 
-How I reason about data problems
-
-How I translate requirements into working systems
-
-How I balance engineering rigor with practical constraints
-
-It is a living repository that evolves as I learn, experiment, and refine my approach.
-
-Contact
+## Contact
 If you are interested in discussing any project, architectural decision, or potential collaboration, feel free to reach out through GitHub.
-
 Thanks for taking the time to review this work.
